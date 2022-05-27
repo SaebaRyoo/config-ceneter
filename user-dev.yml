@@ -5,7 +5,7 @@ jdbc: #数据库连接池（spring-boot有默认的数据库连接池）
   driverClassName: com.mysql.cj.jdbc.Driver
   url: jdbc:mysql:///study_db
   username: root
-  password: zqy19970114
+  password: abc
   initialSize: 5
   maxActive: 10
   maxWait: 3000
